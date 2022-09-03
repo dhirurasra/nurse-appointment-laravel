@@ -2,7 +2,6 @@
 
 ![Home Page](https://github.com/khoadodk/appointment-laravel/blob/master/homepage.PNG)
 
-# http://appointment-laravel.herokuapp.com/
 
 # Credentials to test this app
 
