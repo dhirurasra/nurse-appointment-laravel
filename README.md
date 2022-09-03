@@ -1,6 +1,9 @@
 # Nurse appointment web app built with Laravel
 
-![Home Page](https://github.com/khoadodk/appointment-laravel/blob/master/homepage.PNG)
+[![PHP Version](https://img.shields.io/badge/PHP-8--8.1-green)](https://packagist.org/packages/dhirurasra/nurse-appointment-laravel)
+[![Laravel Version](https://img.shields.io/badge/Laravel-8-yellowgreen)](https://packagist.org/packages/dhirurasra/nurse-appointment-laravel)
+
+![Home Page](https://raw.githubusercontent.com/dhirurasra/nurse-appointment-laravel/main/homepage.PNG)
 
 
 # Credentials to test this app
